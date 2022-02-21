@@ -1,0 +1,120 @@
+2022-02-09 15:32:16,097-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/tvSkipTour')
+2022-02-09 15:32:16,108-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/tvSkipTour')
+2022-02-09 15:32:16,110-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/tvSkipTour')
+2022-02-09 15:32:16,529-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.416835
+2022-02-09 15:32:17,149-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 15:32:17,161-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 15:32:17,164-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 15:32:18,025-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.859168
+2022-02-09 15:32:22,750-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 15:32:22,753-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 15:32:22,755-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 15:32:23,372-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.616210
+2022-02-09 15:32:27,919-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 15:32:27,921-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 15:32:27,924-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 15:32:28,474-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.547585
+2022-02-09 15:32:28,648-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 15:32:28,650-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 15:32:28,651-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 15:32:29,179-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.525034
+2022-02-09 18:09:07,672-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/tvSkipTour')
+2022-02-09 18:09:07,674-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/tvSkipTour')
+2022-02-09 18:09:07,674-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/tvSkipTour')
+2022-02-09 18:09:08,048-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.371504
+2022-02-09 18:09:08,376-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:09:08,377-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:09:08,378-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:09:09,061-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.680233
+2022-02-09 18:09:13,621-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:09:13,622-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:09:13,623-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:09:14,231-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.606327
+2022-02-09 18:09:18,708-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:09:18,710-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:09:18,712-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:09:19,253-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.540711
+2022-02-09 18:09:19,394-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:09:19,395-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:09:19,395-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:09:19,902-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.506629
+2022-02-09 18:11:52,775-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:11:52,776-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:11:52,777-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:11:53,205-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.427361
+2022-02-09 18:11:57,741-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:11:57,742-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:11:57,744-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:11:58,337-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.592266
+2022-02-09 18:12:02,829-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:12:02,830-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:12:02,831-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:12:03,356-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.523494
+2022-02-09 18:12:03,509-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:12:03,510-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:12:03,510-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:12:04,010-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.499019
+2022-02-09 18:14:33,694-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:14:33,696-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:14:33,697-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:14:34,163-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.465046
+2022-02-09 18:14:38,794-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:14:38,796-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:14:38,796-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:14:39,360-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.561730
+2022-02-09 18:14:43,895-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:14:43,897-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:14:43,897-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:14:44,440-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.542078
+2022-02-09 18:14:44,597-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:14:44,598-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:14:44,598-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:14:45,100-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.500537
+2022-02-09 18:18:23,786-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:18:23,787-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:18:23,788-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:18:24,245-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.455286
+2022-02-09 18:18:28,818-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:18:28,818-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:18:28,819-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:18:29,367-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.547417
+2022-02-09 18:18:33,835-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:18:33,836-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:18:33,836-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:18:34,364-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.527298
+2022-02-09 18:18:34,512-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:18:34,513-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:18:34,513-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:18:35,017-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.502685
+2022-02-09 18:20:23,166-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:20:23,167-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:20:23,169-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 18:20:23,624-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.452520
+2022-02-09 18:20:28,212-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:20:28,213-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:20:28,214-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 18:20:28,811-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.596220
+2022-02-09 18:20:33,258-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:20:33,258-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:20:33,259-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 18:20:33,774-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.515471
+2022-02-09 18:20:33,929-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:20:33,929-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:20:33,930-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 18:20:34,437-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.506157
+2022-02-09 21:52:23,900-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 21:52:23,910-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 21:52:23,912-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etEmail')
+2022-02-09 21:52:24,410-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.495195
+2022-02-09 21:52:29,149-INFO-mylog.py-pyWebAuntoTest-日志信息：输入的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 21:52:29,151-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 21:52:29,153-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('id', 'au.com.lexisnexis.lexisred.preview:id/etPassword')
+2022-02-09 21:52:29,707-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.551264
+2022-02-09 21:52:34,255-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 21:52:34,257-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 21:52:34,260-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().className("android.widget.ImageView").resourceId("au.com.lexisnexis.lexisred.preview:id/ivRememberPasswordCheckBox")')
+2022-02-09 21:52:34,828-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:00.564873
+2022-02-09 21:52:34,999-INFO-mylog.py-pyWebAuntoTest-日志信息：点击的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 21:52:35,001-INFO-mylog.py-pyWebAuntoTest-日志信息：查找的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 21:52:35,001-INFO-mylog.py-pyWebAuntoTest-日志信息：等待加载的元素是:('-android uiautomator', 'new UiSelector().text("LOGIN")')
+2022-02-09 21:52:36,007-INFO-mylog.py-pyWebAuntoTest-日志信息：加载时间为:0:00:01.002195

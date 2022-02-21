@@ -1,0 +1,19 @@
+
+#yaml文件中：
+#  1.yaml文件中与python代码格式相同，以同一缩进为同一级别数据，缩进必须是空格，不能是tab
+#  2.冒号后面的文本内容，除了数字（数字读取之后还是数字），被yaml读取之后都是字符串
+#  3.整个yaml文件的内容读取之后是一个字典
+
+# 使用的手机操作系统
+platformName: Android
+# 手机操作系统的版本
+platformVersion: 7.1
+# 使用的手机或模拟器类型
+deviceName: Android Emulator
+# 包名
+appPackage: au.com.lexisnexis.lexisred
+# 需要打开的首页名
+appActivity: crc640f7b11ab6ec605bf.NativeTourActivity
+
+#这里有声明chromedriver路径的参数
+#desired_caps["chromedriverExecutable"] ="chromdriver路径
